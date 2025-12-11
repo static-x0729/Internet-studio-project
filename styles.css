@@ -80,7 +80,7 @@ font-family: 'Josefin Sans';
   margin: 0;
   padding: 0;
   display: flex;
-  gap: 20px;                
+  gap: 20px; 
 }
 
 
@@ -90,6 +90,7 @@ font-family: 'Josefin Sans';
   padding: 10px 15px;
   border-radius: 8px;
   transition: 0.3s;
+  font-size: 1.5em;
 }
 
 .navbar a:hover {
@@ -409,4 +410,5 @@ h1 {
     text-align: center;
     border-top: 1px dashed #DFD3C3;
     padding-top: 15px;
+
 }
